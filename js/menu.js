@@ -23,7 +23,7 @@ function menu(menuId) {
 			break;
 
 		case 2:	//在线加点
-			location.href = rootPath + 'Download.html';
+			location.href = rootPath + 'download';
 			break;
 
 
